@@ -1,0 +1,1 @@
+The goals of this project are simple: to create a Java library for neural networks that is simple to use and learn, provides layers of abstraction to facilitate configurability and expandibility, and is robust, reliable and efficient.
